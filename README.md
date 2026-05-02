@@ -5,7 +5,7 @@ at IIT Patna. Each project translates mathematical theory directly into working
 Python code using real NSE/Nifty 50 market data.
 
 **Study path:** Probability Theory → Stochastic Calculus → Time Series → 
-Algorithmic Trading
+Algorithmic Trading.
 
 **Course foundation:** NPTEL — Probability and Stochastics for Finance 
 (IIT Kanpur, Prof. Joydeep Dutta)
